@@ -1,4 +1,6 @@
-npm install
+npm install yarn
+ln -s node_moudules/yarn/bin/yarn ~/scripts/yarn
+
 https://ethereum.org/en/whitepaper/
 
 
