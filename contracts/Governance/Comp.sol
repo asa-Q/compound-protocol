@@ -1,6 +1,6 @@
 ///https://github.com/ethereum/wiki/wiki/Standardized_Contract_APIs/499c882f3ec123537fc2fccd57eaa29e6032fe4a
 
-EIP-20 pragma solidity ^0.5.16;
+pragma solidity ^0.5.16;
 pragma experimental ABIEncoderV2;
 
 contract Comp {
